@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(189, 196, 203);
+}
+img{
+    width: 75%;
+    margin-left:10% ;
+    /* height: 300px; */
+}
+.img{
+    width: 50%;
+    margin-left: 25%;
+}
+h1{
+    text-align: center;
+}
